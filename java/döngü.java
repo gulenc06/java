@@ -6,7 +6,7 @@ public class Main
 	    int a;
 	    System.out.print("bir sayı gir");
 	    a = kb.nextInt();
-	    if(a==31)
+	    if(a==17)
 	    System.out.println("17 sayıs geçersiz");
 	    else{
 		for (int i=0 ;i<=a ; i++)
